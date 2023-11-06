@@ -1,0 +1,157 @@
+             Eta2      P-value
+Dim.12 0.74970332 1.178188e-58
+Dim.2  0.61874716 8.371371e-40
+Dim.13 0.60330474 4.924606e-38
+Dim.5  0.52861369 2.250217e-30
+Dim.14 0.51026765 1.096101e-28
+Dim.10 0.46148012 1.664892e-24
+Dim.7  0.41622847 5.645044e-21
+Dim.11 0.40497977 3.828142e-20
+Dim.8  0.40233852 5.965887e-20
+Dim.9  0.38126675 1.904769e-18
+Dim.3  0.36325383 3.317316e-17
+Dim.4  0.34151296 9.252948e-16
+Dim.16 0.31552303 4.197548e-14
+Dim.19 0.25214898 2.288767e-10
+Dim.1  0.24413353 6.353231e-10
+Dim.6  0.18330475 9.113682e-07
+Dim.15 0.17928619 1.429357e-06
+Dim.20 0.14650169 4.849537e-05
+Dim.17 0.13907167 1.037449e-04
+Dim.18 0.09924861 4.635724e-03
+              p.value df
+Subject 9.971208e-252 80
+S        4.399567e-37 24
+AP       5.793651e-14 32
+SCC      4.397101e-03 32
+$`1`
+                             Cla/Mod   Mod/Cla    Global
+Subject=Social sciences     93.33333 100.00000  6.880734
+FI=FI_4                     15.62500  35.71429 14.678899
+Subject=Arts and humanities  0.00000   0.00000 19.266055
+SCC=SCC_4                    0.00000   0.00000 25.229358
+Subject=Life sciences        0.00000   0.00000 36.697248
+                                 p.value    v.test
+Subject=Social sciences     3.658130e-21  9.441976
+FI=FI_4                     4.564185e-02  1.998691
+Subject=Arts and humanities 4.502099e-02 -2.004458
+SCC=SCC_4                   1.472116e-02 -2.439167
+Subject=Life sciences       1.284875e-03 -3.219337
+
+$`2`
+                         Cla/Mod   Mod/Cla    Global
+Subject=Law           100.000000 100.00000  3.211009
+SCC=SCC_5               8.695652  57.14286 21.100917
+Subject=Life sciences   0.000000   0.00000 36.697248
+                           p.value    v.test
+Subject=Law           2.374066e-13  7.325840
+SCC=SCC_5             4.264641e-02  2.027157
+Subject=Life sciences 3.846494e-02 -2.069866
+
+$`3`
+                  Cla/Mod Mod/Cla   Global      p.value   v.test
+Subject=Education     100     100 2.293578 2.552461e-10 6.323777
+
+$`4`
+                                           Cla/Mod   Mod/Cla
+Subject=Life sciences                     98.75000 55.244755
+Subject=Arts and humanities               90.47619 26.573427
+S=S_4                                     74.16667 62.237762
+FI=FI_5                                   82.85714 20.279720
+Subject=Clinical, pre-clinical and health 92.30769  8.391608
+AP=AP_1                                    0.00000  0.000000
+Subject=Education                          0.00000  0.000000
+Subject=Engineering and technology         0.00000  0.000000
+S=S_2                                      0.00000  0.000000
+Subject=Law                                0.00000  0.000000
+Subject=Computer science                   0.00000  0.000000
+Subject=Physical science                   0.00000  0.000000
+Subject=Social sciences                    0.00000  0.000000
+Subject=Other                              0.00000  0.000000
+                                             Global      p.value
+Subject=Life sciences                     36.697248 2.716563e-18
+Subject=Arts and humanities               19.266055 6.478240e-05
+S=S_4                                     55.045872 3.511139e-03
+FI=FI_5                                   16.055046 1.690993e-02
+Subject=Clinical, pre-clinical and health  5.963303 3.227544e-02
+AP=AP_1                                    2.293578 4.405391e-03
+Subject=Education                          2.293578 4.405391e-03
+Subject=Engineering and technology         2.752294 1.447781e-03
+S=S_2                                      3.211009 4.712118e-04
+Subject=Law                                3.211009 4.712118e-04
+Subject=Computer science                   3.211009 4.712118e-04
+Subject=Physical science                   5.045872 4.781298e-06
+Subject=Social sciences                    6.880734 4.088521e-08
+Subject=Other                              6.880734 4.088521e-08
+                                             v.test
+Subject=Life sciences                      8.722695
+Subject=Arts and humanities                3.994677
+S=S_4                                      2.919038
+FI=FI_5                                    2.388660
+Subject=Clinical, pre-clinical and health  2.140983
+AP=AP_1                                   -2.847574
+Subject=Education                         -2.847574
+Subject=Engineering and technology        -3.184952
+S=S_2                                     -3.496609
+Subject=Law                               -3.496609
+Subject=Computer science                  -3.496609
+Subject=Physical science                  -4.574162
+Subject=Social sciences                   -5.486985
+Subject=Other                             -5.486985
+
+$`5`
+                            Cla/Mod Mod/Cla    Global
+Subject=Other                   100     100  6.880734
+Subject=Arts and humanities       0       0 19.266055
+Subject=Life sciences             0       0 36.697248
+                                 p.value    v.test
+Subject=Other               1.793201e-23  9.983877
+Subject=Arts and humanities 3.575196e-02 -2.099737
+Subject=Life sciences       7.810024e-04 -3.359441
+
+$`6`
+                                   Cla/Mod Mod/Cla   Global
+Subject=Engineering and technology     100     100 2.752294
+                                       p.value   v.test
+Subject=Engineering and technology 7.19003e-12 6.853826
+
+$`7`
+                               Cla/Mod   Mod/Cla    Global
+S=S_2                       100.000000 100.00000  3.211009
+Subject=Arts and humanities   9.523810  57.14286 19.266055
+FI=FI_3                       6.944444  71.42857 33.027523
+S=S_4                         0.000000   0.00000 55.045872
+                                 p.value    v.test
+S=S_2                       2.374066e-13  7.325840
+Subject=Arts and humanities 3.040631e-02  2.164757
+FI=FI_3                     4.669040e-02  1.989098
+S=S_4                       3.284382e-03 -2.939787
+
+$`8`
+                            Cla/Mod   Mod/Cla    Global
+Subject=Physical science 100.000000 100.00000  5.045872
+S=S_3                     12.727273  63.63636 25.229358
+SCC=SCC_2                 13.513514  45.45455 16.972477
+S=S_4                      1.666667  18.18182 55.045872
+Subject=Life sciences      0.000000   0.00000 36.697248
+                              p.value    v.test
+Subject=Physical science 9.761278e-19  8.837810
+S=S_3                    7.471849e-03  2.675048
+SCC=SCC_2                2.700623e-02  2.211428
+S=S_4                    1.446758e-02 -2.445439
+Subject=Life sciences    5.615236e-03 -2.769442
+
+$`9`
+                           Cla/Mod Mod/Cla    Global
+Subject=Computer science 100.00000      70  3.211009
+AP=AP_1                  100.00000      50  2.293578
+SCC=SCC_1                 20.00000      40  9.174312
+FI=FI_1                   13.88889      50 16.513761
+Subject=Life sciences      0.00000       0 36.697248
+                              p.value    v.test
+Subject=Computer science 2.848880e-11  6.654178
+AP=AP_1                  6.432201e-08  5.406350
+SCC=SCC_1                8.405006e-03  2.635352
+FI=FI_1                  1.445877e-02  2.445659
+Subject=Life sciences    9.124758e-03 -2.607344
+
